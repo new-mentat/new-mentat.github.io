@@ -7,7 +7,7 @@ author = "Matt Lee"
 Welcome to my blog! I'm Matt Lee.
 
 Previously I've worked at [Bridgewater Associates](https://bridgewater.com),
-[Quantopian](https://quantopian.com) (acquired by [RobinHood](https://robinhood.com)), and
+[Quantopian](https://quantopian.com) (acquired by [Robinhood](https://robinhood.com)), and
 [MongoDB](https://mongodb.com). I am also a [Recurse Center](https://recurse.com) alum.
 
 Based in NYC.
