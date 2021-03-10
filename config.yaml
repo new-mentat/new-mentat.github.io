@@ -1,0 +1,26 @@
+
+baseURL: https://new-mentat.github.io
+languageCode: en-us
+title: New Mentat 
+theme: mini
+paginate: 3
+
+hasCJKLanguage: true
+permalinks:
+  posts: /posts/:title/
+
+# googleAnalytics: UA-123-45
+
+markup:
+  highlight:
+    guessSyntax: true
+    style: emacs
+
+social:
+  github: https://github.com/new-mentat
+
+params:
+  author: New Mentat 
+  enableRSS: true
+  enableComments: true
+  # enableGoogleAnalytics: true
