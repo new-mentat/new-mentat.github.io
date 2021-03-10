@@ -1,9 +1,10 @@
----
-title: "The Hingehiker's Guide to the Hinge Hellscape"
-date: 2021-03-10T10:43:50-05:00
-draft: false
-categories: ["Romance"]
----
++++
+title = "The Hingehiker's Guide to the Hinge Hellscape"
+date = 2021-03-10T12:43:50-05:00
+categories = [
+    "Romance",
+]
++++
 
 *Opinions are my own and certainly not held by my employer*
 
