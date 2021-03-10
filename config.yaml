@@ -5,13 +5,13 @@ title: New Mentat
 theme: mini
 paginate: 3
 
+markup:
+  defaultMarkdownHandler: blackfriday
+
 permalinks:
   posts: /posts/:title/
 
 # googleAnalytics: UA-123-45
-
-social:
-  github: https://github.com/new-mentat
 
 params:
   author: New Mentat 
