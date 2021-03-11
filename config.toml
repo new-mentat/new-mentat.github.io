@@ -6,7 +6,7 @@ relativeURLs = true
 enableEmoji = true
 googleAnalytics = ""
 enableRobotsTXT = true
-copyright = "&copy; Copyright Year, Your Name"
+copyright = "&copy; Copyright 2021, Matt Lee"
 
 # Main menu items
 [menu]
@@ -36,7 +36,7 @@ copyright = "&copy; Copyright Year, Your Name"
   header_subtitle = "A blog about books, technology, algorithms, and economics. Some art and reflections too." # Your header subtitle
   home_image = "/images/avatar.png"          # Path to header image starting from the static directory
   recent_posts = 10 # Max amount of recent posts to show
-  mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
+  mainSections = ["post"]   # Main sections to include in recent posts
   [params.style]                             # CSS style overrides
     backgroundColor = "#f8f9fa"
     fontColor = "#212529"

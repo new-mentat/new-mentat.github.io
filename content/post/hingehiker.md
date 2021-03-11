@@ -8,6 +8,8 @@ categories = [
 
 *Opinions are my own and certainly not held by my employer*
 
+*Hinge is a fantastic dating app; if you are a Hinge employee please do not take offense at this article -- you are doing God's work*
+
 ## A Call to Action
 
 It’s 2020, Covid is on the upsurge, a divisive election looms on the horizon, and the downfall of democracy seems all but inevitable. Flicking through Instagram, the following ad appears on your screen. It’s a call to action, a shining, golden arm gloriously beckoning amidst the chaos.
